@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050832248868",
+    "project_id": "role-based-auth-6d535",
+    "storage_bucket": "role-based-auth-6d535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050832248868:android:4bf9f43c4879351d14b8b1",
+        "android_client_info": {
+          "package_name": "com.example.rolebased_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050832248868-4em5i9vnq5tcijau9vppal091nh2dg1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDtJIjfQ4LPZ9hVD6MhPXPUe84H6ArIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050832248868-4em5i9vnq5tcijau9vppal091nh2dg1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
