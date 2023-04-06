@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:rolebased_authentication/screens/loginpage.dart';
 import 'package:rolebased_authentication/screens/register.dart';
 
 void main()async{
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Register()
+      home: LoginPage()
     );
   }
 }
